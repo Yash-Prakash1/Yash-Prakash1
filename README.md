@@ -54,4 +54,4 @@ A convolutional neural network that classifies images from a self driving car da
 
 * LinkedIn, [yash-prakash-979853172](https://www.linkedin.com/in/yash-prakash-979853172/)
 * Email, [yprakash.cmu@gmail.com](mailto:yprakash.cmu@gmail.com)
-* Website, [yash-prakash1.github.io](https://yash-prakash1.github.io) (live after my site goes up)
+* Website, [yash-prakash1.github.io](https://yash-prakash1.github.io)
