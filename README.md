@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yprakash.cmu@gmail.com)
 [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://yash-prakash1.github.io)
 
-I work as the connective tissue across hardware, machine learning, and field operations, turning physical tasks into data, structured evaluations, and shipped hardware. I build robot test and evaluation infrastructure from zero, automate it over real instrumentation, and run the experiments that drive design changes.
+Robots are easy to demo and hard to trust. I close that gap. I build the proof that a robot works: the benchmarks, the test rigs, and the data that say what it will really do before a customer ever sees it. Hardware, machine learning, and field operations, the work lives where they meet, and so do I.
 
 ## What I do
 
